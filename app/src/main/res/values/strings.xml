@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_log_in_page">log_in_page</string>
+    <string name="title_activity_register_page">register_page</string>
+    <string name="title_activity_faculty_signup">Faculty_signup</string>
+    <string name="title_activity_student_signup">Student_signup</string>
+</resources>
+
